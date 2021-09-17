@@ -1,11 +1,22 @@
 import React from 'react';
-// import SearchIndex from './SearchIndex';
+import SearchIndex from './SearchIndex';
 import { Container } from 'reactstrap';
  
 const Search = () => {
    return (
      <Container className="App">
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+     <SearchIndex />
      <br />
+     <br/>
+       <br/>
+       <br/>
+       <br/>
+       
        <h1 className="App-intro">
      In this challenge your goal is to use the existing code to create the following: 
        </h1>
@@ -22,7 +33,6 @@ const Search = () => {
          </li>
        </ul>
        <hr />
-       {/* <SearchIndex /> */}
      </Container>
    );
 

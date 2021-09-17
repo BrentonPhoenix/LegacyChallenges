@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+
+.catReturn{
+  color:black;
+  width: auto;
+  margin: 2px;
+  padding: 2px;
+
+}
+
+
+#catsMap{
+  background-color: turquoise;
+  border: 8px double gold;
+}
+
+
+img{
+  width: auto;
+  height: 500px;
+  border-radius: 100%;
+  
+}
+
+#dogDIV{
+  background-color: turquoise;
+}
